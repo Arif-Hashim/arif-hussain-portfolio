@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "title": "MERN Stack E-Commerce Platform",
+    "category": "fullStack",
+    "description": "Full-featured online store with JWT authentication, cart system, product management, dynamic MongoDB schemas, and Stripe payment gateway integration.",
+    "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "Tailwind CSS",
+      "JWT"
+    ],
+    "liveUrl": "https://ecommerce-web-frontend-six.vercel.app/",
+    "githubUrl": "https://github.com/Arif-Hashim/ecommerce-web-frontend",
+    "featured": true,
+    "views": 184,
+    "likes": 42
+  },
+  {
+    "id": "2",
+    "title": "Applotech Corporate Business Portal",
+    "category": "fullStack",
+    "description": "Responsive corporate web portal built with Next.js, featuring dynamic MongoDB contact pipeline, service showcases, and fast server-side rendering.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "MongoDB",
+      "Node.js"
+    ],
+    "liveUrl": "https://applotech-preview.vercel.app",
+    "githubUrl": "https://github.com/arifhashimi9090/applotech-portal",
+    "featured": true,
+    "views": 215,
+    "likes": 56
+  },
+  {
+    "id": "3",
+    "title": "RESTful Food Ordering API & Frontend",
+    "category": "fullStack",
+    "description": "Multi-category culinary ordering platform with real-time menu browsing, cart checkout, and secure RESTful endpoints built with Express and MongoDB.",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "React",
+      "Postman"
+    ],
+    "liveUrl": "https://arif-foodhub.vercel.app",
+    "githubUrl": "https://github.com/arifhashimi9090/food-order-app",
+    "featured": true,
+    "views": 142,
+    "likes": 38
+  },
+  {
+    "id": "4",
+    "title": "TechDev Insights Blogging Engine",
+    "category": "fullStack",
+    "description": "Rich markdown and WYSIWYG blogging web app allowing developers to create, edit, filter, and publish programming tutorials with user comments.",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "React",
+      "Express.js",
+      "MongoDB",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "liveUrl": "https://techdev-blog.vercel.app",
+    "githubUrl": "https://github.com/arifhashimi9090/mern-blogging-app",
+    "featured": false,
+    "views": 128,
+    "likes": 29
+  },
+  {
+    "id": "5",
+    "title": "E-Commerce Admin Dashboard",
+    "category": "frontEnd",
+    "description": "Comprehensive administrative dashboard for store managers with analytics charts, product inventory controls, order tracking, and sales analytics.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Recharts"
+    ],
+    "liveUrl": "https://arif-ecom-dashboard.vercel.app",
+    "githubUrl": "https://github.com/arifhashimi9090/admin-ecom-dashboard",
+    "featured": true,
+    "views": 196,
+    "likes": 51
+  },
+  {
+    "id": "6",
+    "title": "Personal Budget & Expense Tracker",
+    "category": "frontEnd",
+    "description": "Interactive financial tracker with income/expense logging, balance calculations, budget categories, and localStorage persistence.",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS"
+    ],
+    "liveUrl": "https://budget-tracker-arif.vercel.app",
+    "githubUrl": "https://github.com/arifhashimi9090/budgeting-tracker",
+    "featured": false,
+    "views": 94,
+    "likes": 22
+  },
+  {
+    "id": "7",
+    "title": "IronPulse Fitness & Gym Website",
+    "category": "frontEnd",
+    "description": "High-energy gym website showcasing training routines, trainer bio cards, interactive membership pricing tables, and class schedules.",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "Responsive Design"
+    ],
+    "liveUrl": "https://ironpulse-gym.vercel.app",
+    "githubUrl": "https://github.com/arifhashimi9090/gym-landing-page",
+    "featured": false,
+    "views": 110,
+    "likes": 31
+  },
+  {
+    "id": "8",
+    "title": "Secure Auth & REST API Microservice",
+    "category": "backend",
+    "description": "Production-grade authentication microservice using JWT, bcrypt password hashing, input validation, rate limiting, and documented via Postman collections.",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&auto=format&fit=crop&q=80",
+    "tags": [
+      "Node.js",
+      "Express.js",
+      "JWT",
+      "MongoDB",
+      "Postman",
+      "Bcrypt"
+    ],
+    "liveUrl": "https://api-auth-service.onrender.com",
+    "githubUrl": "https://github.com/arifhashimi9090/jwt-auth-rest-api",
+    "featured": false,
+    "views": 155,
+    "likes": 44
+  }
+]
